@@ -1,4 +1,4 @@
-# Análise de Imigração para o Canadá (1980–2013)
+# Analise-imigrantes-canada
 
 Este projeto realiza uma análise exploratória dos dados de imigração para o Canadá entre 1980 e 2013, com foco nos países da América do Sul. Foram utilizados diferentes tipos de visualizações para entender o comportamento das migrações ao longo do tempo.
 
@@ -19,6 +19,7 @@ Este projeto realiza uma análise exploratória dos dados de imigração para o 
 |---------|-----------|
 | `notebook.ipynb` | Notebook principal com toda a análise (limpeza, exploração e visualizações). |
 | `imigrantes_canada.csv` | Base de dados utilizada no estudo. |
+| `Imigração_america_sul.html` | Gráfico interativo gerado com Plotly (linha temporal da América do Sul). |
 
 ---
 
@@ -83,4 +84,4 @@ Este projeto realiza uma análise exploratória dos dados de imigração para o 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/MariarpSaraiva/Analise-imigrantes-canada.git
